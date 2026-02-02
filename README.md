@@ -87,7 +87,7 @@ I specialize in building scalable CI/CD pipelines, automating cloud infrastructu
 ---
 
 ## 🤝 Let's Connect
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit_USERNAME&show_icons=true)
 - GitHub: https://github.com/mohitlavania07  
 - LinkedIn: Mohit Lavania 
 
