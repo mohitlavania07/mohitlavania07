@@ -67,8 +67,6 @@ Passionate DevOps Engineer focused on building scalable infrastructure, automate
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45"/>
-</p>
 
 ---
 
@@ -106,19 +104,8 @@ Passionate DevOps Engineer focused on building scalable infrastructure, automate
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohitlavania07&show_icons=true"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/mohitlavania07
-- LinkedIn: Add your profile  
 
 ---
-
-⭐ If you like my work, feel free to star my repositories!
