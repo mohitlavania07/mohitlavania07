@@ -13,9 +13,19 @@ I specialize in building scalable CI/CD pipelines, automating cloud infrastructu
 ## Tech Stack
 
 ### ☁️ Cloud
+![EC2](https://img.shields.io/badge/AWS-EC2-orange)
+![ECS](https://img.shields.io/badge/AWS-ECS-orange)
+![Lambda](https://img.shields.io/badge/AWS-Lambda-orange)
+![S3](https://img.shields.io/badge/AWS-S3-orange)
+![VPC](https://img.shields.io/badge/AWS-VPC-orange)
+![IAM](https://img.shields.io/badge/AWS-IAM-orange)
 - AWS (EC2, ECS, ECR, Lambda, S3, CloudWatch, IAM, ALB, VPC, WAF)
 
 ### CI/CD
+![GitLab](https://img.shields.io/badge/GitLab-CI/CD-orange)
+![Jenkins](https://img.shields.io/badge/Jenkins-Automation-red)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black)
+![AWS CodePipeline](https://img.shields.io/badge/AWS-CodePipeline-orange)
 - GitLab CI/CD  
 - Jenkins  
 - AWS CodePipeline / CodeBuild  
@@ -25,6 +35,11 @@ I specialize in building scalable CI/CD pipelines, automating cloud infrastructu
 - Terraform  
 
 ### 📊 Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-red)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-yellow)
+![Loki](https://img.shields.io/badge/Loki-Logs-blue)
+![Promtail](https://img.shields.io/badge/Promtail-Agent-blue)
+![Jaeger](https://img.shields.io/badge/Jaeger-Tracing-lightgrey)
 - Prometheus  
 - Grafana  
 - Loki  
@@ -32,10 +47,16 @@ I specialize in building scalable CI/CD pipelines, automating cloud infrastructu
 - Node Exporter  
 
 ### Web / Servers
+![NGINX](https://img.shields.io/badge/NGINX-Web-green)
+![Apache](https://img.shields.io/badge/Apache-Server-red)
 - NGINX  
 - Linux
 
 ### 🔐 Security & DevOps Tools
+![Trivy](https://img.shields.io/badge/Trivy-Vulnerability-lightgrey)
+![SonarQube](https://img.shields.io/badge/SonarQube-CodeQuality-blue)
+![Auditd](https://img.shields.io/badge/Auditd-LinuxSecurity-yellow)
+![AWS GuardDuty](https://img.shields.io/badge/AWS-GuardDuty-orange)
 - Trivy  
 - SonarQube  
 - Auditd  
@@ -66,7 +87,7 @@ I specialize in building scalable CI/CD pipelines, automating cloud infrastructu
 ---
 
 ## 🤝 Let's Connect
-
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 - GitHub: https://github.com/mohitlavania07  
 - LinkedIn: Mohit Lavania 
 
