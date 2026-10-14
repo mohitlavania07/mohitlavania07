@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Lavania</h1>
-<h3 align="center">DevOps Engineer | Cloud Automation | AWS | CI/CD | Terraform | Observability</h3>
+<h3 align="center">DevOps Engineer | AWS | Azure | CI/CD | Terraform | Observability</h3>
 
 <p align="center">
 Passionate DevOps Engineer focused on building scalable infrastructure, automated pipelines, and production-grade monitoring systems.
@@ -9,13 +9,13 @@ Passionate DevOps Engineer focused on building scalable infrastructure, automate
 
 ## 🚀 About Me
 
-- 🔧 DevOps Engineer specializing in AWS Cloud & Automation  
+- 🔧 DevOps Engineer specializing in AWS and Azure Cloud & Automation  
 - ☁️ Building Infrastructure as Code using Terraform  
-- 🔁 Designing CI/CD pipelines with Jenkins, GitLab & AWS CodePipeline  
-- 📊 Implementing Monitoring & Logging with Prometheus, Grafana & Loki  
-- 🔐 Practicing DevSecOps with Trivy, SonarQube & AWS Security Services  
-- 🚀 Deploying microservices on EC2 / ECS with NGINX  
-- 📈 Currently learning Kubernetes & OpenTelemetry  
+- 🔁 Designing CI/CD pipelines with Jenkins, GithubAction, Azure DevOps, GitLab and AWS CodePipeline  
+- 📊 Implementing Monitoring & Logging with Prometheus, Grafana, Loki and ELK 
+- 🔐 Practicing DevSecOps with Trivy, SonarQube, OWASP & AWS Security Services  
+- 🚀 Deploying application on EC2 / ECS / EKS  
+- 📈 Currently learning GitOps  
 
 ---
 
@@ -96,9 +96,7 @@ Passionate DevOps Engineer focused on building scalable infrastructure, automate
 
 🚀 Terraform AWS Infrastructure  
 🚀 Monitoring Stack (Prometheus + Grafana + Loki)  
-🚀 CI/CD Pipelines with GitLab & Jenkins  
-🚀 NGINX Observability  
-🚀 Release Automation  
+🚀 CI/CD Pipelines with GitLab, Jenkins, GithubAction, Azure DevOps & CodePipeline
 
 (Repositories contain real-world production configs.)
 
